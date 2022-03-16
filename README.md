@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @SteVentis
-- 👀 I’m interested in to learn coding.
-- 🌱 I’m currently learning javascript and C#.
+
 
 
 <!---
