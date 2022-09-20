@@ -1,19 +1,14 @@
-### Hi there 👋
+### Hey, I am Stefanos Ventis!💻🙏
+I am a Full-Stack Software Developer and Technology Enthusiast. I love Programming💻,Learning📙 and Travelling✈️!
+
+As Software Developer I really enjoy to work as Back End. I want to extend my knowledge about languages and frameworks like C#,Javascript,SQL and .Net Framework.
 
 
+**Talking about Personal Stuffs:**
 
-<!--
-**SteVentis/SteVentis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 I’m currently working on something cool;
+- 🌱 I’m currently learning Design Patterns in C#;
+- 👯 I’m looking to collaborate with other developers.I love to exchange knowledge;
+- 💬 Ask me about anything,I am happy to help if i can;
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
