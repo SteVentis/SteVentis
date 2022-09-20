@@ -12,3 +12,6 @@ As Software Developer I really enjoy to work as Back End. I want to extend my kn
 - 💬 Ask me about anything,I am happy to help if i can;
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ste/Ventis)](https://github.com/anuraghazra/github-readme-stats)
+
+
