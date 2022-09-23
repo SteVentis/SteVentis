@@ -5,7 +5,7 @@ I am a Full-Stack Software Developer and Technology Enthusiast. I love Programmi
 As Software Developer I really enjoy to work as Back End. I want to extend my knowledge about languages and frameworks like C#,Javascript,SQL and .Net Framework.
 
 
-**Talking about Personal Stuffs:**
+**Talking about Personal Stuff:**
 
 - 👨‍💻 I’m currently working on something cool;
 - 🌱 I’m currently learning Design Patterns in C#;
