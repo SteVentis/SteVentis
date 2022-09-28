@@ -10,7 +10,7 @@ As Software Developer I really enjoy to work as Back End. I want to extend my kn
 
 
 
-<img align="right" src="https://user-images.githubusercontent.com/101551480/192391236-4731c283-1e1c-48e2-8f7c-c32c982bb684.gif"/>
+<img align="right" src="https://user-images.githubusercontent.com/101551480/192903634-aeb05a54-1fe1-4f36-ab7f-0e55ae6bb15d.gif"/>
 
 
 **Talking about Personal Stuff:**
@@ -42,18 +42,19 @@ As Software Developer I really enjoy to work as Back End. I want to extend my kn
 <details>
 <summary><strong>GitHub Stats</strong></summary>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api?username=SteVentis&show_icons=true&theme=dark&border_color=317b30&text_color=317b30&title_color=317b30&bg_color=000000">
+<img src="https://github-readme-stats.vercel.app/api?username=SteVentis&theme=gruvbox&show_icons=true&border_color=de0101&text_color=de0101&title_color=000000&bg_color=ffffff">
 </details>
 <details>
 <summary><strong>Most Used Languages</strong></summary>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SteVentis&layout=compact&theme=dark&border_color=317b30&text_color=317b30&title_color=317b30&bg_color=000000">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SteVentis&layout=compact&theme=dark&border_color=de0101&text_color=de0101&title_color=000000&bg_color=ffffff">
 </details>
 <details>
 <summary><strong>Codewars</strong></summary>
 <br/>
-<img src="https://github.r2v.ch/codewars?user=Steve%20Ventis&top_languages=true&theme=highcontrast&stroke=green">
+<img src="https://github.r2v.ch/codewars?user=Steve%20Ventis&top_languages=true&theme=light&stroke=red">
 </details>
 
 
 <!--<img src="https://user-images.githubusercontent.com/101551480/192805963-4cdce81c-3469-450f-8772-799bc4a043fe.gif" width="250" height="500"/>-->
+<!--![ezgif-2-a01c8f6698](https://capsule-render.vercel.app/api?text=Hey%20Everyone!&animation=fadeIn&type=waving&color=green&height=100)-->
