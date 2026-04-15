@@ -77,12 +77,6 @@ I’m especially interested in understanding how good technical decisions are ma
 
 ---
 
-## Career Goal
-
-My long-term goal is to grow into a **Software Architect / Solution Architect** role and contribute not only through implementation, but also through system design, architectural thinking, and technical direction.
-
----
-
 ## Connect With Me
 
 - **LinkedIn:** www.linkedin.com/in/stefanos-ventis
