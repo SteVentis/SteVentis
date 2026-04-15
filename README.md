@@ -92,7 +92,7 @@ I’m especially interested in understanding how good technical decisions are ma
 ## Connect With Me
 
 - **LinkedIn:** www.linkedin.com/in/stefanos-ventis
-- **GitHub:** github.com/SteVentis
+- **Email:** steveventis@gmail.com
 
 <p align="center">
   Thanks for visiting my profile.
