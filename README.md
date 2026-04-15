@@ -26,7 +26,7 @@
 
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="33%">
 
 ### Languages & Backend
 - C#
@@ -41,7 +41,7 @@
 - Redis
 
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="33%">
 
 ### Architecture & Patterns
 - Clean Architecture
@@ -53,6 +53,9 @@
 ### Messaging & Infrastructure
 - RabbitMQ
 - Background Services / Workers
+
+    </td>
+    <td valign="top" width="33%">
 
 ### Tools
 - Git
