@@ -68,7 +68,6 @@
     </td>
   </tr>
 </table>
----
 
 ## What Interests Me
 
