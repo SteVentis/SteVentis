@@ -21,102 +21,72 @@
 
 ---
 
+
 ## Tech Stack
 
-### Backend
-- **C#**
-- **.NET / ASP.NET Core**
-- **REST APIs**
-- **Entity Framework Core**
-- **Dapper**
+**Languages & Backend**
+- C#
+- .NET / ASP.NET Core
+- REST APIs
 
-### Architecture & Patterns
-- **Clean Architecture**
-- **Domain-Driven Design (DDD)**
-- **CQRS**
-- **MediatR**
-- **Outbox Pattern**
-- **Event-Driven Architecture**
+**Data & Persistence**
+- Entity Framework Core
+- Dapper
+- SQL Server
+- SQLite
+- Redis
 
-### Messaging & Infrastructure
-- **RabbitMQ**
-- **Redis**
-- **Background Services / Workers**
-- **SQL Server**
-- **SQLite**
+**Architecture & Patterns**
+- Clean Architecture
+- Domain-Driven Design (DDD)
+- CQRS
+- MediatR
+- Event-Driven Architecture
 
-### Tools & DevOps
-- **Git / GitHub**
-- **GitHub Actions**
-- **Visual Studio**
-- **VS Code**
-- **Postman**
+**Messaging & Infrastructure**
+- RabbitMQ
+- Background Services / Workers
+
+**Tools**
+- Git
+- GitHub
+- GitHub Actions
+- Visual Studio
+- VS Code
+- Postman
 
 ---
 
-## What I Like Building
+## What Interests Me
 
-I enjoy working on projects that involve:
-
-- backend APIs
-- asynchronous processing
-- messaging workflows
-- architectural patterns
-- scalable and maintainable systems
-- real-world software design decisions
-
-I’m especially interested in projects where coding is not just about “making it work”, but about designing the system the right way.
+- Backend development
+- Software architecture
+- Distributed systems
+- Messaging and asynchronous workflows
+- Scalable application design
+- Maintainable and clean code
+- Real-world engineering practices
 
 ---
 
 ## Current Focus
 
-At this stage, I’m focused on improving in:
+At this stage, I’m focused on growing as an engineer by deepening my knowledge in backend systems, architecture, and software design principles.
 
-- designing backend systems end-to-end
-- applying architecture patterns in real projects
-- building event-driven and modular systems
-- writing cleaner and more maintainable code
-- evolving from implementation into architecture thinking
+I’m especially interested in understanding how good technical decisions are made and how systems can be structured in a clear, reliable, and scalable way.
 
 ---
 
-## Featured Projects
+## Career Goal
 
-Here are some of the areas I’m working on and expanding through personal projects:
-
-- **Event-Driven Order System**
-  - API + background workers
-  - RabbitMQ integration
-  - Outbox pattern
-  - asynchronous processing
-
-- **Architecture Labs**
-  - experiments with architectural styles
-  - design patterns in practice
-  - backend-focused system design exercises
-
-> More projects will be added as I continue building my architecture portfolio.
+My long-term goal is to grow into a **Software Architect / Solution Architect** role and contribute not only through implementation, but also through system design, architectural thinking, and technical direction.
 
 ---
 
-## Goals
-
-My long-term goal is to become a **Software Architect / Solution Architect** who can:
-
-- design robust systems
-- make solid architectural decisions
-- balance business needs with technical quality
-- guide implementation with clean engineering principles
-
----
-
-## Let's Connect
+## Connect With Me
 
 - **LinkedIn:** www.linkedin.com/in/stefanos-ventis
 - **GitHub:** github.com/SteVentis
-
----
 
 <p align="center">
   Thanks for visiting my profile.
