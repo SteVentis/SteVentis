@@ -24,30 +24,37 @@
 
 ## Tech Stack
 
-**Languages & Backend**
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+### Languages & Backend
 - C#
 - .NET / ASP.NET Core
 - REST APIs
 
-**Data & Persistence**
+### Data & Persistence
 - Entity Framework Core
 - Dapper
 - SQL Server
 - SQLite
 - Redis
 
-**Architecture & Patterns**
+    </td>
+    <td valign="top" width="50%">
+
+### Architecture & Patterns
 - Clean Architecture
 - Domain-Driven Design (DDD)
 - CQRS
 - MediatR
 - Event-Driven Architecture
 
-**Messaging & Infrastructure**
+### Messaging & Infrastructure
 - RabbitMQ
 - Background Services / Workers
 
-**Tools**
+### Tools
 - Git
 - GitHub
 - GitHub Actions
@@ -55,6 +62,9 @@
 - VS Code
 - Postman
 
+    </td>
+  </tr>
+</table>
 ---
 
 ## What Interests Me
